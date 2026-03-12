@@ -1,6 +1,6 @@
-Customer Churn Prediction
+#Customer Churn Prediction
 
-Project Overview
+##Project Overview
 
 This project focuses on predicting customer churn using machine learning techniques. Customer churn refers to customers who stop using a company’s services. Predicting churn helps companies identify high-risk customers and improve customer retention strategies.
 
